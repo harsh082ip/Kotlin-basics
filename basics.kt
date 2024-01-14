@@ -24,5 +24,11 @@ fun main() {
     
 //     val myLetter: Char = 66 // this will work in java but not in kotlin
 // println(myLetter) // Error
+
+
+    // to concatinate
+    var firstName = "John "
+    var lastName = "Doe"
+    println(firstName.plus(lastName))
     
 }
